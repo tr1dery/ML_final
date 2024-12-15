@@ -8,6 +8,7 @@
 - Набор данных и разметка классов на Roboflow
 
 Блокнот: https://colab.research.google.com/drive/13yeQMQ8njAkhkuq5iA9hRb9g2vOlkDir?usp=sharing
+
 Датасет: https://universe.roboflow.com/wrkspc-gi0hz/cloud-classification-mf91q
 
 Cloudy day huh?

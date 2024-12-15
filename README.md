@@ -12,4 +12,5 @@
 Датасет: https://universe.roboflow.com/wrkspc-gi0hz/cloud-classification-mf91q
 
 Cloudy day huh?
+
 ![облака](https://github.com/user-attachments/assets/676f21cd-9846-4383-9abd-fa404b253c96)
